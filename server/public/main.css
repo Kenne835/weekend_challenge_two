@@ -1,0 +1,41 @@
+html {
+  text-align: center;
+  background: url(http://cdn.wallpapersafari.com/24/93/fm1QC4.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+  color: #f9fafb;
+  font: Arial;
+  font-size: 60px;
+}
+
+#x, #y {
+  background-color: #f9fafb;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+.equation {
+  background-color: #f9fafb;
+   font-size: 25px;
+   font: Arial;
+   margin: 10px;
+   border-radius: 5px;
+}
+
+.reset {
+  background-color: #f9fafb;
+  font: Arial;
+  font-size: 20px;
+  border-radius: 5px;
+}
+
+#result {
+  font: Arial;
+  font-size: 20px;
+  color: #f9fafb;
+}
